@@ -23,7 +23,11 @@ The extension needs access to all websites so it can redirect blocked sites to i
 
 ## Data sharing
 
-The extension does not sell, transfer or share any data. It makes no network requests other than loading its own bundled files.
+**User data is never sold, transferred or shared with any third party, under any circumstances.**
+
+The extension does not collect user data on any server, so no user data is available to the developer or to anyone else. User data is not used or transferred for any purpose unrelated to the extension's single purpose of blocking distracting websites, and it is never used or transferred to determine creditworthiness or for lending purposes. The extension makes no network requests other than loading its own bundled files.
+
+The use of information by this extension complies with the [Chrome Web Store Developer Program Policies](https://developer.chrome.com/docs/webstore/program-policies/) on user data, including the Limited Use requirements.
 
 ## Changes
 
